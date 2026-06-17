@@ -1,0 +1,15 @@
+PS C:\Users\jeeva\OneDrive\Desktop\CodeAlpha_Task2> python secure_login.py
+Enter Username: admin
+Enter Password: admin123
+Login Successful
+PS C:\Users\jeeva\OneDrive\Desktop\CodeAlpha_Task2> python secure_login.py
+Enter Username: admin
+Enter Password: admin1234
+Login Failed. Attempts left: 2
+Enter Username: admin
+Enter Password: admin123456
+Login Failed. Attempts left: 1
+Enter Username: admin
+Enter Password: admin1234567
+Login Failed. Attempts left: 0
+Account Locked
